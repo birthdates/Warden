@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aebb3e96-0b7d-4401-858e-a58c58e1ef30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/libs/spigot.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/repo/com/birthdates/spigot/1.0-SNAPSHOT/spigot-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liam\Documents\warden\libs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Liam\Documents\Warden" />
     </key>
@@ -73,7 +76,9 @@
       <updated>1578457538407</updated>
       <workItem from="1578457541099" duration="3195000" />
       <workItem from="1578509517906" duration="5145000" />
-      <workItem from="1578528509476" duration="340000" />
+      <workItem from="1578528509476" duration="3036000" />
+      <workItem from="1578574906434" duration="8000" />
+      <workItem from="1578611472555" duration="131000" />
     </task>
     <servers />
   </component>
