@@ -1,0 +1,7 @@
+name: Warden
+author: birthdates
+version: 1.0.0
+main: com.birthdates.warden.Warden
+commands:
+  warden:
+    aliases: [w, war, ward]
