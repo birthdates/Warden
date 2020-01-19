@@ -16,6 +16,7 @@ class Warden : JavaPlugin() {
      override fun onEnable() {
          instance = this
          thread = MemoryThread()
+         thread.start()
          getCommand("warden").executor = WardenCommand()
     }
 
