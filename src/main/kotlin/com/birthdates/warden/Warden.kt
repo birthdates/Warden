@@ -21,7 +21,7 @@ class Warden : JavaPlugin() {
     }
 
     /**
-     * For some reason java memory variables come in bytes or some shit but this works translating it to megabytes, somehow.
+     * For some reason java memory variables come in bytes or something but this works translating it to megabytes, somehow.
      */
     fun getCurrentRam(): Long {
         return ((Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()) / (1024.0 * 1024.0)).roundToLong()
